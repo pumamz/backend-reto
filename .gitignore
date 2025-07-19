@@ -1,4 +1,6 @@
 target/
-*.log
-*.jar
 .env
+*.log
+*.iml
+.idea/
+.DS_Store
